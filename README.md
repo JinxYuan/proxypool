@@ -1,7 +1,7 @@
 # proxypool
 代理池（随机取出一个代理ip）
 # setting.py
-- 可以修改自己本地或者远程的redis地址和端口号
+- 使用时可以修改为自己本地（远程）的redis的地址和端口号
 我这里使用的是默认的
 - TEST_URL 建议爬取那个网址 设置为那个网站
 - API地址可以根据自己的情况配置(API_HOST、API_PORT)
